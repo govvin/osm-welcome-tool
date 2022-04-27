@@ -107,10 +107,14 @@ regions:
     name: Panama
     flag: 🇵🇦
     osmcha.id: 0a2b4874-4c19-45e3-8e75-8b40a8f7f3aa
+  philippines:
+    name: Philippines
+    flag: 🇵🇭
+    osmcha.id: 
   poland:
     name: Poland
     flag: 🇵🇱
-    osmcha.id: 98d2b447-34b6-4681-82f8-9de3adddbf1b
+    osmcha.id: 98d2b447-34b6-4681-82f8-9de3adddbf1b   
   romania:
     name: Romania
     flag: 🇷🇴
